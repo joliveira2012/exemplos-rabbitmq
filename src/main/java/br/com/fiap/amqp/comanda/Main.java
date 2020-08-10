@@ -1,4 +1,4 @@
-package ninja.hesketh;
+package br.com.fiap.amqp.comanda;
 
 public class Main {
 
